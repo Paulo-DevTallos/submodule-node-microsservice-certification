@@ -1,0 +1,3 @@
+[submodule "api-gateway-certification"]
+	path = api-gateway-certification
+	url = git@github.com:Paulo-DevTallos/api-gateway-certification.git
